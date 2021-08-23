@@ -2,7 +2,7 @@
 
 Basic Udacity project using pandas library in Python for their bikeshare data exploration.
 
-Project Overview:
+# Project Overview:
 
 This project focuses on pandas library usage and simple statistics methods to perform a rudimentary analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
 
@@ -30,3 +30,15 @@ The oldest user (if available)
 The youngest user (if available)
 The most common birth year amongst users (if available)
 Finally, the user is prompted with the choice of restarting the program or not.
+
+# Requirements:
+
+Language: Python 3.6 or above
+Libraries: pandas, numpy, time
+
+Built with:
+
+Python 3.6.6 - The language used to develop this.
+pandas - One of the libraries used for this.
+numpy - One of the libraries used for this.
+
