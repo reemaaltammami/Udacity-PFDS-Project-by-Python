@@ -12,7 +12,7 @@ MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
 DAYS=['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'all']
 
 
-
+"""user input """
 
 def get_filters():
     """
