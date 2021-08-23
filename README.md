@@ -1,6 +1,8 @@
 # Udacity-PFDS-Project-by-Python
 
+_______
 Basic Udacity project using pandas library in Python for their bikeshare data exploration.
+
 
 # Project Overview:
 
@@ -41,4 +43,5 @@ Built with:
 Python 3.6.6 - The language used to develop this.
 pandas - One of the libraries used for this.
 numpy - One of the libraries used for this.
+
 
